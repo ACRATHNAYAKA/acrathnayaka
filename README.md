@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acrathnayaka&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-default" alt="Avishka's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrathnayaka&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ACRATHNAYAKA&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-default" alt="Avishka's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACRATHNAYAKA&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ### 📫 Connect with me
