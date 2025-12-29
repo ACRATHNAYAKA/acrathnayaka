@@ -14,7 +14,10 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=acrathnayaka&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acrathnayaka&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-default" alt="Avishka's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrathnayaka&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
 
 ### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-@acrathnayaka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acrathnayaka)
