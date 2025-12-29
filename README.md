@@ -1,12 +1,12 @@
 # Hi there, I'm AC Rathnayaka 👋 
 
 ### 🚀 About Me
-- 🎓 **BICT Student** with a strategic and analytical approach to problem-solving.
-- 🏗️ **Currently:** Engineering high-performance backend systems and scalable **Health-Tech** solutions.
+- 🎓 **BICT Student** with a strategic and analytical approach to learning.
+- - 🏗️ **Currently:** Mastering **Java fundamentals** and **OOP** architecture while building foundational **Health-Tech** applications.
 - 🎯 **Goal:** Pushing the boundaries of **Java** to its absolute limits and mastering its deep architecture.
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
