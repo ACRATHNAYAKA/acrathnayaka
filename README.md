@@ -21,8 +21,6 @@
 
 ### 👉🏼 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-@acrathnayaka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acrathnayaka)
-[![TikTok](https://img.shields.io/badge/TikTok-Serandib.java-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@serandib.java)
-[![YouTube](https://img.shields.io/badge/YouTube-Avishka_Chamara-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@avishkachamara)
 
 ---
 *“Strategy is about making choices, trade-offs; it's about deliberately choosing to be different.”*
