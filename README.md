@@ -2,7 +2,7 @@
 
 ### 👉🏼 About Me
 - 🎓 **BICT Student** with a strategic and analytical approach to learning.
-- 👨🏻‍💻 **Currently:** Mastering **Java fundamentals** and **OOP** architecture while building foundational **Health-Tech** applications.
+- 👨🏻‍💻 **Currently:** Mastering **Java** and **React** 
 - 🎯 **Goal:** Pushing the boundaries of **Java** to its absolute limits and mastering its deep architecture.
 
 ### 👉🏼 Tech Stack
