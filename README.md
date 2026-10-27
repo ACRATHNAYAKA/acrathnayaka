@@ -1,25 +1,46 @@
-# Hi there, I'm AC Rathnayaka 👋 
+<!-- Custom profile artwork with supplied MINK logo. Upload README.md and assets/ together. -->
+<img src="assets/01-identity.png" width="100%" alt="Avishka Chamara. BICT undergraduate in Sri Lanka. Java, Spring Boot, React and JavaScript. Curiosity in the details. Care in the code. Blue MINK logo." />
 
-### 👉🏼 About Me
-- 🎓 **BICT Student** with a strategic and analytical approach to learning.
-- 👨🏻‍💻 **Currently:** Mastering **Java** and **React** 
-- 🎯 **Goal:** Pushing the boundaries of **Java** to its absolute limits and mastering its deep architecture.
+<img src="assets/02-about.png" width="100%" alt="About: BICT undergraduate at Uva Wellassa University. Developing skills in Java, Spring Boot and React. Interested in software engineering, cybersecurity and environmental technology." />
 
-### 👉🏼 Tech Stack
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="assets/03-workbench.png" width="100%" alt="Technical focus: React, JavaScript, HTML, CSS and Tailwind CSS. Learning Java, Spring Boot, REST APIs and OOP. Developing SQL and database skills with PostgreSQL and MySQL. Tools: Git, GitHub and Figma." />
 
+<a href="https://github.com/rukshan-premathilaka/ran-aswanu-client"><img src="assets/04-ran-aswanu.png" width="100%" alt="Ran Aswanu: team project. My contribution: frontend interfaces for the Farm Dashboard and Buyer Dashboard. Explore the frontend repository." /></a>
 
-### 👉🏼 GitHub Stats
+<!-- Add future completed projects here, keeping each contribution accurately scoped. -->
+
+<img src="assets/05-connect.png" width="100%" alt="Let's talk software. Open to thoughtful conversations and collaboration." />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ACRATHNAYAKA&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-default" alt="Avishka's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACRATHNAYAKA&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+<a href="https://www.linkedin.com/in/avishka-chamara-b3813b3ab"><img src="assets/linkedin.png" width="32%" alt="Connect on LinkedIn" /></a>
+<a href="mailto:avishkacrathnayaka@gmail.com"><img src="assets/email.png" width="32%" alt="Email avishkacrathnayaka@gmail.com" /></a>
+<a href="https://github.com/ACRATHNAYAKA?tab=repositories"><img src="assets/github.png" width="32%" alt="Explore my GitHub repositories" /></a>
 </p>
 
-### 👉🏼 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-@acrathnayaka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acrathnayaka)
+<details>
+<summary>Profile in text / contact details</summary>
 
----
-*“Strategy is about making choices, trade-offs; it's about deliberately choosing to be different.”*
+# Avishka Chamara
+
+BICT undergraduate at Uva Wellassa University, Sri Lanka.
+
+I'm developing my skills in Java, Spring Boot and React. I learn by writing code, investigating bugs and understanding the decisions behind a solution. My interests include software engineering, cybersecurity and technology for environmental problems.
+
+**Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS.  
+**Backend learning:** Java, Spring Boot, REST APIs, OOP.  
+**Database learning:** SQL, PostgreSQL, MySQL.  
+**Tools:** Git, GitHub, IntelliJ IDEA, Figma.
+
+## Ran Aswanu - team contribution
+
+Contributed to the Farm Dashboard and Buyer Dashboard frontend interfaces. The wider application was a team effort.
+
+[Frontend repository](https://github.com/rukshan-premathilaka/ran-aswanu-client)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/avishka-chamara-b3813b3ab)  
+[avishkacrathnayaka@gmail.com](mailto:avishkacrathnayaka@gmail.com)  
+Alternative: [avishkachamara71@gmail.com](mailto:avishkachamara71@gmail.com)
+
+</details>
