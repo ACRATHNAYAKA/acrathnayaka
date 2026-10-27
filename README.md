@@ -1,5 +1,5 @@
-<!-- Custom profile artwork with supplied MINK logo. Upload README.md and assets/ together. -->
-<img src="assets/01-identity.png" width="100%" alt="Avishka Chamara. BICT undergraduate in Sri Lanka. Java, Spring Boot, React and JavaScript. Curiosity in the details. Care in the code. Blue MINK logo." />
+<!-- Custom profile artwork with the original blue MinkByte logo. Upload README.md and assets/ together. -->
+<img src="assets/01-identity.png" width="100%" alt="Avishka Chamara. BICT undergraduate in Sri Lanka. Java, Spring Boot, React and JavaScript. Curiosity in the details. Care in the code. Blue MinkByte logo." />
 
 <img src="assets/02-about.png" width="100%" alt="About: BICT undergraduate at Uva Wellassa University. Developing skills in Java, Spring Boot and React. Interested in software engineering, cybersecurity and environmental technology." />
 
